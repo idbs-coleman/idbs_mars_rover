@@ -1,0 +1,1 @@
+java -jar idbs_team_a/target/idbs_mars_rover-1.0-SNAPSHOT.jar
